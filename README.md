@@ -14,7 +14,7 @@ Este é um projeto desenvolvido como parte do curso **"Formação Front-end - HT
 
 ## 🌐 Acesse o Projeto
 
-Você pode visualizar o site hospedado no GitHub Pages [**clicando aqui**](file:///C:/Users/Enzo%20Ribeiro/Desktop/cursos/Curso%20front-end%20udemy/Projetos/Projeto5_clonando-insta/index.html)
+Você pode visualizar o site hospedado no GitHub Pages [**clicando aqui**](https://enzoribeir.github.io/Site-clonando-instagram/)
 
 ---
 
